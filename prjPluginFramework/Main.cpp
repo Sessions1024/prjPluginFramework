@@ -33,6 +33,6 @@ int main()
 	DummyPluginInstance->DisplayMessage(L"Well, It Works", L"Debugging");
 
 
-	std::cin.get();
+	std::cin.get(); // Just To Pause
 	return(0);
 }
