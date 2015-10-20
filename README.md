@@ -11,3 +11,5 @@ Interfaces for the plugins are to be created virtually in memory by reading a co
 3.) PluginLoader.exe reads DummyPlugin.conf, and creates a virtual interface in memory.
 
 4.) PluginLoader.exe uses its virtual interface to call functions inside DummyPlugin.dll.
+
+![alt tag](http://s18.postimg.org/4gjcby3a1/Diagram.png)
