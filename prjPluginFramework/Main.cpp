@@ -7,7 +7,8 @@
 typedef Interface_DummyPlugin* (__cdecl *DummyPlugin_Factory)();
 
 /*
-	Need to find a way to use XML as interface using generics
+	Need to design the structure of the XML document
+	in order to rebuild a virtual interface in c++
 */
 int main()
 {
